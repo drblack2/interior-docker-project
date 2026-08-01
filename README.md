@@ -88,3 +88,4 @@ The backend exposes the following endpoints:
 ## Notes
 
 This starter is designed for an interior design portfolio site and can be adapted for agencies, studios, or freelancer showcases.
+new disco
